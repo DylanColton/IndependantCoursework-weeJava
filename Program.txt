@@ -1,0 +1,7 @@
+\n
+public class Program {\n
+\tpublic static void main(String[] args) {\n
+\t\t// write out "Hello World\n
+\t\tSystem.out.println("Hello World");\n
+\t}\n
+}
